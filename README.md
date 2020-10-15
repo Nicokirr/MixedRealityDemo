@@ -1,6 +1,6 @@
 # MixedRealityDemo
 This is a sample app to try the Mixed Reality features introduced in Power Apps in release wave 2, 2020
-
+You can either import the solution (managed or unmanaged), or the .msapp file from the Power Apps Studio
 
 ## Mesurements
 Ability to measure distances, areas, and volumes, with different units (meters, centimeters, inches, feets)
