@@ -12,3 +12,4 @@ Define the size of a 3D cuboid and place it into your environment
 
 ## 3D Object
 Choose an object from a catalog, define its size, and place it into your environment
+![3D Object Photo](https://raw.githubusercontent.com/Nicokirr/MixedRealityDemo/main/3Dobject2.png)
