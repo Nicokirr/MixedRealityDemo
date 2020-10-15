@@ -8,7 +8,7 @@ Ability to measure distances, areas, and volumes, with different units (meters, 
 
 ## 3D Shape
 Define the size of a 3D cuboid and place it into your environment
-![3D Shape Photo](https://raw.githubusercontent.com/Nicokirr/MixedRealityDemo/main/MeasurmentsFull.png)
+![3D Shape Photo](https://raw.githubusercontent.com/Nicokirr/MixedRealityDemo/main/ShapeBackground.png)
 
 ## 3D Object
 Choose an object from a catalog, define its size, and place it into your environment
